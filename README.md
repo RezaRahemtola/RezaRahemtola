@@ -1,8 +1,4 @@
-### Hello there 👋
-
 <!--
-**RezaRahemtola/RezaRahemtola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,6 +10,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![Statistics](https://github-readme-stats.vercel.app/api?username=RezaRahemtola&show_icons=true&count_private=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RezaRahemtola&theme=radical&layout=compact&langs_count=6)
+<h1 align='center'>
+  Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+</h1>
+<p align='center'>
+  <img src="https://github-readme-stats.vercel.app/api?username=RezaRahemtola&show_icons=true&count_private=true&theme=radical" width="49%" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RezaRahemtola&theme=radical&layout=compact&langs_count=6" width="49%" />
+</p>

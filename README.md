@@ -1,18 +1,25 @@
-<!--
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <h1 align='center'>
   Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
 </h1>
+
+<p align='center'>
+    <a href="https://www.linkedin.com/in/reza-rahemtola">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+</p>
+
+<p align=center>
+  <a href="https://www.epitech.eu">
+      <img src="https://img.shields.io/badge/Epitech-1a2b6d?style=for-the-badge&logo=/e/&logoColor=white">
+  </a>
+  <a href="https://github.com/PoCInnovation">
+      <img src="https://img.shields.io/badge/PoC Innovation-36454F?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://www.qobra.co/">
+      <img src="https://img.shields.io/badge/Qobra-4946FF?style=for-the-badge&logo=GitHub Sponsors&logoColor=white">
+  </a>
+</p>
+
 <p align='center'>
   <img src="https://github-readme-stats.vercel.app/api?username=RezaRahemtola&show_icons=true&count_private=true&theme=radical" width="60%" />
   <br/>
